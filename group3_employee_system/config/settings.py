@@ -1,3 +1,6 @@
+
+# This file contains the main configuration settings for the Django project.
+
 """
 Django settings for config project.
 
