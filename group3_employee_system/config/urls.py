@@ -1,3 +1,7 @@
+
+# This file defines the URL patterns and routes user requests to the appropriate views.
+
+
 """
 URL configuration for config project.
 
