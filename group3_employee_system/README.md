@@ -73,5 +73,5 @@ python manage.py runserver
 | Mubarig Cabdi Cabdillahi 
 | Asiya Axmed Siciid | departments improvements,validation ,documentation|
 | Samira Kayse Suluub 
-| Abokor Clrashiid Axmed 
+| Abokor Clrashiid Axmed | Updated URL (url.py), project settings(settings.py)and departmentlist template(department_list.html)
 | Khalid Mahamed Farah 
